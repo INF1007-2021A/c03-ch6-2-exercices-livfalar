@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f22b114-da92-4ce8-b4bd-f63168e37f49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercice.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_exercice.py">
+  <component name="RunManager" selected="Python.exercice">
     <configuration name="exercice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="c03-ch6-2-exercices-livfalar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,8 +64,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_exercice.py" />
         <item itemvalue="Python.exercice" />
+        <item itemvalue="Python tests.Python tests in test_exercice.py" />
       </list>
     </recent_temporary>
   </component>
@@ -78,16 +79,5 @@
       <updated>1632845450577</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exercice.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
